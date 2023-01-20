@@ -78,7 +78,7 @@ elementoLista.appendChild(inputNombre)
 elementoLista.appendChild(espacio)
 }
 
-//crearElemento("Nombre", nombre)
+//crearElemento("Nombre", nombre) // me añadia un nombre de mas 
 crearElemento("Edad", edad)
 crearElemento("Nacionalidad", nacionalidad)
 
